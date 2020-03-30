@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+header#main-header {
+  height: 80px;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px 0px 8px -4px black;
+  font-size: 18px;
+  font-weight: lighter;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: content-box;
+}
+header#main-header h1 {
+  color: #252525;
+  font-size: 32px;
+  padding: 4px;
+  font-family: "Lobster", cursive;
+  border-bottom: 2px solid tomato;
+}
