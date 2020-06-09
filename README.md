@@ -1,4 +1,3 @@
-# ProductHunt Clone
 # Descrição geral:
 Clone do site ProductHunt, idealizado no curso básico RocketSeat. Desenvolvido com Node e React, a aplicação possui um sistema em que cadastra produtos no banco de dados e automaticamente exibe os dados no front-end.
 # Tecnologias e funcionalidades:
